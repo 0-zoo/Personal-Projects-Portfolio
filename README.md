@@ -15,6 +15,7 @@
 | 1  | **SafeChild**         | ![](https://github.com/user-attachments/assets/xxx1.jpg) | 차량 내 아동 생존을 위한 스마트 카시트 시스템<br/>센서 기반 위험 감지, 실시간 FCM 알림                     | [🔗 GitHub](https://github.com/0-zoo/SafeChild)                             |
 | 2  | **FallAlertMap**      | ![](https://github.com/user-attachments/assets/xxx2.jpg) | 낙상 위험 지역 지도 기반 실시간 알림 시스템<br/>시계열 AI 모델 + React Native 지도 연동     | [🔗 GitHub](https://github.com/0-zoo/FallAlertMap)                          |
 | 3  | **니모내모 (TABA)**     | ![](https://github.com/user-attachments/assets/xxx4.jpg) | AI 기반 두피 분석 및 제품 추천 서비스<br/>이미지 분석 + 사용자 루틴 캘린더 자동화 기록      | [🔗 GitHub](https://github.com/TABA-4th)                                  |
+| 4  | **우리FISA 예제**     | ![](https://github.com/user-attachments/assets/xxx4.jpg) | 우리FISA 수업 예제 생성<br/>풀이 기록      | [🔗 GitHub](https://github.com/0-zoo/Oracle-query-practice)                                  |
 
 ---
 
